@@ -71,7 +71,7 @@ Chandigarh University (2022 – 2026)
 
 ## 🌐 Live Portfolio
 
-Portfolio Link: https://your-portfolio-url.vercel.app
+Portfolio Link: [https://your-portfolio-url.vercel.app](https://portfolio-o6zv.vercel.app/)
 
 ---
 
